@@ -1,1 +1,2 @@
-# algortihms-dasgupta
+# Algorithms
+Codes by chapters of the book [Algorithms](http://cseweb.ucsd.edu/~dasgupta/book/index.html) written by [S. Dasgupta](http://cseweb.ucsd.edu/~dasgupta/), [C.H. Papadimitriou](https://people.eecs.berkeley.edu/~christos/) and [U.V. Vazirani](https://people.eecs.berkeley.edu/~vazirani/). You may download a copy [here](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf).
